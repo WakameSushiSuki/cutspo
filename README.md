@@ -1,5 +1,7 @@
 *HAIII OOMFS!!* This will be the project where I simulate realistic tissue damage for SH recov, education, fun, or just whatever you want! This place is a GitHub repoisitory to let you guys see my progress.
 
+A note, I DO NOT ENCOURAGE SELF-HARM!!! This is just to help some people who need a realistic but safe alternative! But TW for graphic stuff ig. This project is neutral and, while it is intended to potentially be used for recov, is not inherently associated with self-harm.
+
 ## Regarding this repository
 
 My commit messages probably won't be very descriptive in these early stages!! But if anyone wants to make suggestions or anything, I am fully open to pull requests. This project has no license as of now, do whatever you want with it lol. If you do not like my code style, please give me feedback on what to improve! I'm not a web developer, so I barely know JavaScript/TypeScript. I am actively learning more as I make this project. I come from a C++/Rust background. *meoow*
