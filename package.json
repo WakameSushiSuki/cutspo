@@ -1,5 +1,5 @@
 {
-  "name": "my-site",
+  "name": "cutspo",
   "version": "1.0.0",
   "scripts": {
     "build": "tsc --watch"
