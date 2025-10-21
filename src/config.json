@@ -1,0 +1,30 @@
+{
+    "tissues": {
+        "bone": {
+            "texture": "../assets/textures/bone.png"
+        },
+        "periosteum": {
+            "texture": "../assets/textures/periosteum.png"
+        },
+        "skeletal muscle": {
+            "texture": "../assets/textures/skeletal muscle.png"
+        },
+        "deep fascia": {
+            "texture": "../assets/textures/deep fascia.png"
+        },
+        "hypodermis": {
+            "texture": "../assets/textures/hypodermis.png"
+        },
+        "reticular dermis": {
+            "texture": "../assets/textures/reticular dermis.png"
+        },
+        "papillary dermis": {
+            "texture": "../assets/textures/papillary dermis.png"
+        },
+        "epidermis": {
+            "texture": "../assets/textures/epidermis.png"
+        }
+    },
+    "width": 889,
+    "height": 500
+}
